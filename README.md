@@ -27,5 +27,5 @@
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leoncenwijaya/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/leon-cenwijaya/) 
 - ✉️ Email: leoncen123@gmail.com
