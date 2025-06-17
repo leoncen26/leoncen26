@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Leon Cenwijaya 👋</h1>
 
 <p align="center">
-  🚀 Flutter Developer | 💻 Tech Enthusiast 
+  🚀 Flutter Developer | 🧑‍💻  Software Developer |💻 Tech Enthusiast 
 </p>
 
 ---
