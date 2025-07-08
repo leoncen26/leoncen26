@@ -34,3 +34,9 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leon-cenwijaya/) 
 - ✉️ Email: leoncen123@gmail.com
+
+---
+
+<img src="https://raw.githubusercontent.com/leoncen26/leoncen26/output/snake.svg" alt="Snake animation" />
+
+###
