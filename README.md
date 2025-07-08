@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 <h1 align="center">Hi there, I'm Leon Cenwijaya 👋</h1>
 
 <p align="center">
