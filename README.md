@@ -30,10 +30,16 @@
 
 ---
 
-## 📫 Get in Touch
+- ## 📫 Get in Touch
+<p align="center">
+  <a href="mailto:leoncen123@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/leon-cenwijaya/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/leonchang02"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/></a>
+  <a href="https://github.com/leoncen26"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website"/></a>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leon-cenwijaya/) 
-- ✉️ Email: leoncen123@gmail.com
+
 
 ---
 
