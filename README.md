@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/leoncen26/leoncen26/blob/main/header_github.png)
 
 <h1 align="center">Hi there, I'm Leon Cenwijaya 👋</h1>
 
