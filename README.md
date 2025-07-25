@@ -1,6 +1,8 @@
 ![Header](https://github.com/leoncen26/leoncen26/blob/main/header_github.png)
 
 <h1 align="center">Hi there, I'm Leon Cenwijaya 👋</h1>
+<h4 align="center">Undergraduate Student at Bunda Mulia University with a strong interest
+in technology, particularly in Mobile application development and Android application development. </h4>
 
 <p align="center">
   🚀 Flutter Developer | 🧑‍💻  Software Developer |💻 Tech Enthusiast 
