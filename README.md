@@ -39,6 +39,8 @@ in technology, particularly in Mobile application development and Android applic
   <a href="https://www.linkedin.com/in/leon-cenwijaya/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://instagram.com/leonchang02"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/></a>
   <a href="https://github.com/leoncen26"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://leoncen26.github.io/Leoncen-Portfolio/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/domain.png" alt="Website"/></a>
+
 </p>
 
 
