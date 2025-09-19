@@ -2,17 +2,17 @@
 
 <h1 align="center">Hi there, I'm Leon Cenwijaya 👋</h1>
 <h4 align="center">Undergraduate Student at Bunda Mulia University with a strong interest
-in technology, particularly in Mobile application development and Android application development. </h4>
+in technology, particularly in Web development and Mobile application development. </h4>
 
 <p align="center">
-  🚀 Flutter Developer | 🧑‍💻  Software Developer |💻 Tech Enthusiast 
+  🚀 Frontend Developer | 🧑‍💻  Software Developer |💻 Flutter Developer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧠 Passionate about **Mobile Developer** and **Web Developer**
+- 🧠 Passionate about **Web Developer** and **Mobile Developer**
 - 📲 Building mobile apps that solve real-world problems
 - 💬 Always happy to collaborate on open-source or research-based projects
 
